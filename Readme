@@ -1,0 +1,3 @@
+∗ Designed a 3-stage pipelines MAC unit using half-precision IEEE floating point.
+∗ Implemented the design on Quartus-Prime and validated it on FPGA Altera MAX.
+∗ The design works on 50 MHz while the external input works on 1 kHz.
